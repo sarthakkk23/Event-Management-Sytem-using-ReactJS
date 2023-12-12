@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Event-Management-Sytem-using-ReactJS/static/css/main.012a77d3.css",
+    "main.js": "/Event-Management-Sytem-using-ReactJS/static/js/main.30c24d6a.js",
+    "static/media/img6.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/img6.1d218e58b3e0116bde48.jpg",
+    "static/media/img9.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/img9.092b3d5eed7d1278113b.jpg",
+    "static/media/img7.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/img7.741910caf6451f0775a7.jpg",
+    "static/media/img5.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/img5.531da345c0a1c3cf45bc.jpg",
+    "static/media/ig.png": "/Event-Management-Sytem-using-ReactJS/static/media/ig.866767d99933c0f6ec1f.png",
+    "static/media/music.jpeg": "/Event-Management-Sytem-using-ReactJS/static/media/music.4073cec9482e82df5e15.jpeg",
+    "static/media/art.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/art.b828a86101cd6436b9cc.jpg",
+    "static/media/charity.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/charity.30eb44235cb20ac77dea.jpg",
+    "static/media/food.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/food.c91dbb0bdbc052e36882.jpg",
+    "static/media/book.jpeg": "/Event-Management-Sytem-using-ReactJS/static/media/book.3ed9eb1537daa82fb112.jpeg",
+    "static/media/sports.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/sports.e9a460dcf214cfc6044b.jpg",
+    "static/media/science.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/science.9b8af45cfb4e1ecc0b6a.jpg",
+    "static/media/tech.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/tech.8d244cebafb617f858e1.jpg",
+    "static/media/model.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/model.094304b0141f1da826dc.jpg",
+    "static/media/movie.jpg": "/Event-Management-Sytem-using-ReactJS/static/media/movie.048e745725cbe3b94919.jpg",
+    "static/media/img1.png": "/Event-Management-Sytem-using-ReactJS/static/media/img1.5c4bc7a2325181e60e49.png",
+    "static/media/usericon.png": "/Event-Management-Sytem-using-ReactJS/static/media/usericon.544bcc84075369b5a764.png",
+    "index.html": "/Event-Management-Sytem-using-ReactJS/index.html",
+    "main.012a77d3.css.map": "/Event-Management-Sytem-using-ReactJS/static/css/main.012a77d3.css.map",
+    "main.30c24d6a.js.map": "/Event-Management-Sytem-using-ReactJS/static/js/main.30c24d6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.012a77d3.css",
+    "static/js/main.30c24d6a.js"
+  ]
+}
